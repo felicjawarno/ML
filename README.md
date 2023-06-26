@@ -1,0 +1,2 @@
+Dane są związane z kampaniami marketingu bezpośredniego portugalskiej instytucji bankowej. Kampanie marketingowe opierały się na rozmowach telefonicznych. Często wymagany był więcej niż jeden kontakt z tym samym klientem, aby uzyskać dostęp do tego, czy produkt (bankowa lokata terminowa) zostanie ("tak") lub nie ("nie") subskrybowany.
+Kod służy do znalezienia relacji i zależności zachodzących między danymi przy użyciu różnych metod klasteryzacji.
